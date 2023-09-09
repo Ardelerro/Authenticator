@@ -1,6 +1,6 @@
 ## Authenticator App
 
-Authenticator is a mobile app built with Flutter that allows you to securely store and manage Time-Based One-Time Passwords (TOTP). It has a simple for generating and managing TOTP codes for your accounts.
+Authenticator is a mobile app built with Flutter that allows you to securely store and manage Time-Based One-Time Passwords (TOTP). It is simple for generating and managing TOTP codes for your accounts.
 
 
 ### Usage
